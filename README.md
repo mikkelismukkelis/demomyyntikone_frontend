@@ -1,7 +1,5 @@
 
-# Self-Service cashier app for small shop
-
-## Frontend
+# Self-Service cashier app for small shop - FRONTEND
 
 This is just showcase code for small app I made for some gym. They are selling some goods for their members and before this members were marking buings to paper list and company owners collected and processed this data manually and added total amount to montly member billing. This process took hours and hours worktime. 
 
@@ -23,3 +21,12 @@ Gym has own "management" -view so they can add/modify users and goods and get se
 
 #### Frontpage of app: you can "login" with your pin code or name
 ![Myyntikone frontpage](screenshots/myyntikone_frontpage.png)
+
+#### Pin checked from database and ask "is it really you?"
+![Myyntikone name confirmation](screenshots/myyntikone_name_confirmation.png)
+
+#### Shopping cart: select products you are buying, when ready "mark product to be bought"
+![Myyntikone select products](screenshots/myyntikone_select_products.png)
+
+#### Summary of cart and last confirmation. After this confirmation selling is saved to database and app returns to frontpage
+![Myyntikone cart confirmation](screenshots/myyntikone_cart_confirmation.png)
